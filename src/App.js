@@ -6,8 +6,7 @@ window.a = 456
 function App() {
   return (
     <div className="App">
-        456ssss2dddxx33
-        456ssss2dddxx22
+        1
     </div>
   );
 }
